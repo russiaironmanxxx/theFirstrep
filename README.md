@@ -6,5 +6,7 @@ You can find a playlist of videos about git by [link](https://www.youtube.com/wa
 ## Front_End Developer stack:
 
 * HTML
+* 
 ﻿﻿* CSS
+* 
 ﻿﻿* JavaScript
